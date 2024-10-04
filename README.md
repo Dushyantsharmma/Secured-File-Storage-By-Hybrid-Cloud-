@@ -14,7 +14,7 @@ Before you begin, ensure you have the following installed on your machine:
 1. **Clone the Repository**:
    Begin by cloning the repository to your local machine. Open your terminal and run:
    ```bash
-   git clone https://github.com/Aryamnsls/FileStorageFire.git
+   git clone https://github.com/Dushyantsharmma/Secured-File-Storage-By-Hybrid-Cloud-?tab=readme-ov-file
    ```
 
 2. **Navigate to the Project Directory**:
